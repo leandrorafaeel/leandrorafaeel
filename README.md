@@ -2,7 +2,7 @@
 
 * Graduado em Análise e Desenvolvimento de Sistemas pela Estácio
 * Fortaleza, CE
-* Trabalho com Desenvolvimento Web desde 2018 construindo Sites, Lojas Virtuais, Landing Pages e Sistemas para Web. Apartir de 2020 comecei a atuar como Desenvolvedor Freelancer construindo soluções para pessoas e pequenos negócios.
+* Trabalho com Desenvolvimento Web desde 2018 construindo Sites, Lojas Virtuais, Landing Pages e Sistemas para Web. A partir de 2020 comecei a atuar como Desenvolvedor Freelancer construindo soluções para pessoas e pequenos negócios.
 
 ### Minhas Stacks:
 
